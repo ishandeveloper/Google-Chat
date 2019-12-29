@@ -1,0 +1,9 @@
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\bin\Debug\Google Chat.exe.config
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\bin\Debug\Google Chat.exe
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\bin\Debug\Google Chat.pdb
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\obj\Debug\Google Chat.csprojResolveAssemblyReference.cache
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\obj\Debug\Google_Chat.Form1.resources
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\obj\Debug\Google_Chat.Properties.Resources.resources
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\obj\Debug\Google Chat.csproj.GenerateResource.Cache
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\obj\Debug\Google Chat.exe
+f:\users\ishan sharma\documents\visual studio 2013\Projects\Google Chat\Google Chat\obj\Debug\Google Chat.pdb
